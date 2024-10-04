@@ -1,0 +1,14 @@
+types of recommendations
+
+1) Content based - based on tags/content
+2) Collaborative filtering - based on users(friends, connections)
+3) Hybrid
+
+Project Flow
+
+Data --> Preprocessing --> Model building --> Website --> Deploy
+
+Vectorization for text (tags of games)
+using method called bag of words
+using cosine similarity to find the similarity between each vectors
+

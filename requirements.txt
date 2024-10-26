@@ -4,3 +4,4 @@ scikit-learn
 nltk
 numpy>=1.22.0
 requests
+faiss-cpu

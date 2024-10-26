@@ -199,7 +199,7 @@
 
 import streamlit as st
 import pandas as pd
-import faiss_cpu as faiss
+import faiss
 from sklearn.feature_extraction.text import CountVectorizer
 from nltk.stem.porter import PorterStemmer
 import numpy as np
